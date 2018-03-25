@@ -2,7 +2,7 @@
 layout: post
 title: "Markup: Sameple"
 categories:
-  - others
+  - Others
 tags:
   - markdown
   - Sample
