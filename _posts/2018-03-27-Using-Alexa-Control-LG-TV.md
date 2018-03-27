@@ -62,6 +62,10 @@ config.json
             "password": "password registered on cloudwatch"
         }
     ]
-
+}
 ```
-background exec:(exec homebridge -I &> /dev/null &)
+
+background exec
+```
+(exec homebridge -I &> /dev/null &)
+```
