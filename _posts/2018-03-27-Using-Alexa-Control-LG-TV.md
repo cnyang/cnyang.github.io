@@ -25,7 +25,7 @@ enable skill Alexa homebridge
 
 config.json
 
-``` JSON
+``` json
 {
     "bridge": {
         "name": "Homebridge",
