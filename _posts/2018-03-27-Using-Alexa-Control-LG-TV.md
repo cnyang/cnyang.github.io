@@ -8,7 +8,6 @@ tags:
   - LG
   - HomeBridge
 ---
-## Using Alexa to Control LG TV
 install
 [Homebridge](https://github.com/nfarina/homebridge)
 
@@ -21,9 +20,9 @@ install
 register
 [https://homebridge.cloudwatch.net/](https://homebridge.cloudwatch.net/)
 
-enable skill Alexa homebridge
+enable skill on Alexa App [HomeBridge] (https://www.amazon.com/Northern-Man-54-Homebridge/dp/B07B9QMTFQ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1522304390&sr=1-1&keywords=homebridge&dpID=61ZB%252BPB7UNL&preST=_SY300_QL70_&dpSrc=srch)
 
-config.json
+modify config.json
 
 ``` json
 {
@@ -64,6 +63,10 @@ config.json
     ]
 }
 ```
+
+using iOS device HomeKit to add new device
+
+using Alexa to discover new device
 
 background exec
 ```
