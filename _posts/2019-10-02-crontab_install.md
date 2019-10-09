@@ -5,7 +5,7 @@ categories:
   - Note
 tags:
 ---
-# crontab install
+## crontab install
 crontab -e
 
 */1 * * * * /var/www/html/slifeoss-web/storage/crontabJob/test.py

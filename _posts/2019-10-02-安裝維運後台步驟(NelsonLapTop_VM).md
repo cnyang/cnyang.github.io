@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-# 安裝維運後台步驟(NelsonLapTop VM)
+## 安裝維運後台步驟(NelsonLapTop VM)
 
 ## install nginx + laravel
 https://websiteforstudents.com/setup-laravel-php-framework-on-ubuntu-16-04-17-10-18-04-with-nginx-and-php-7-2-support/

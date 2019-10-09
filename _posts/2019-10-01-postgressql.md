@@ -5,7 +5,7 @@ categories:
   - Note
 tags:
 ---
-# postgressql
+## postgressql
 
     sudo -i -u postgres //切成postgres帳號
     su -l cnyang //切回cnyang帳號

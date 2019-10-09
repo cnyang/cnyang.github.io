@@ -5,8 +5,10 @@ categories:
   - Note
 tags:
 ---
-# page alert
+### page alert
 首頁的check auth/index.blade.php
+
+```
 @if (count($errors) > 0)
 
 - @foreach ($errors->all() as $error)
@@ -14,5 +16,9 @@ tags:
 - @endforeach
 
 @endif
+```
+
+其他頁的popout 要check
+
 其他頁的popout 要check
 

@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-# slifeoss-web
+## slifeoss-web
 pwd: /var/www/html/slifeoss-web
 log :  /var/www/html/slifeoss-web/storage/logs
 網站public: /var/www/html/slifeoss-web/public

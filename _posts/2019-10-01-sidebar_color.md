@@ -5,7 +5,7 @@ categories:
   - Note
 tags:
 ---
-# sidebar color
+## sidebar color
 
 <script>
     //set sidebar color

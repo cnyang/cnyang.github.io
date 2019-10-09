@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-# laravel upgrade
+## laravel upgrade
 
 CMD
 
