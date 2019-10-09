@@ -2,7 +2,7 @@
 layout: post
 title: "Using Alexa to Control LG TV"
 categories:
-  - Alexa
+  - Others
 tags:
   - Alexa
   - LG
