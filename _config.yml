@@ -36,4 +36,4 @@ sidebar_home_link:  true
 github:
   repo:             https://github.com/cnyang
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
